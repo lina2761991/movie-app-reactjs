@@ -1,5 +1,6 @@
 import React from "react";
 import StarRatings from "react-star-ratings";
+import withLoader from '../Components/WithLoader.js';
 
 class MovieCard extends React.Component {
   render() {
@@ -34,4 +35,4 @@ class MovieCard extends React.Component {
   }
 }
 
-export default MovieCard;
+export default withLoader(MovieCard);

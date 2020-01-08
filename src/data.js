@@ -1,6 +1,6 @@
 var movies = [
   {
-    title: "eat",
+    title: "Joker",
     id: 1,
     description: "blabla",
     image:
@@ -8,14 +8,14 @@ var movies = [
     rating: 2
   },
   {
-    title: "drink",
-    description: "blablablab",
+    title: "start Wars",
+    description: "blabla",
     image: "https://images-na.ssl-images-amazon.com/images/I/51%2Bzb74v-TL.jpg",
     id: 1,
     rating: 0
   },
   {
-    title: "sleep",
+    title: "Replicas",
     description: "blablablabla",
     image:
       "https://images.moviepostershop.com/replicas-movie-poster-1000778791.jpg",
@@ -23,7 +23,7 @@ var movies = [
     rating: 4
   },
   {
-    title: "sleep",
+    title: "Captain Marvel",
     description: "blablablablablaba",
     image:
       "https://www.homewallmurals.co.uk/ekmps/shops/allwallpapers/images/captain-marvel-epic-61x91-5cm-movie-poster-31596-1-p.jpg",
@@ -31,7 +31,7 @@ var movies = [
     rating: 4
   },
   {
-    title: "sleep",
+    title: "Avengers",
     description: "blablablablablabla",
     image:
       "https://preview.redd.it/i16fmegsy8z01.jpg?auto=webp&s=b8dbbb4114c0b0194d810364e28d1c06cd82a886",
